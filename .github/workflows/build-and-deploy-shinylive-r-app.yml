@@ -57,4 +57,4 @@ jobs:
           id: deployment
           uses: actions/deploy-pages@v2
           with:
-            repository-name: gashakamba/test-shiny-app
+            repository-name: fgashakamba/test-shiny-app
